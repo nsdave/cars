@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Cars',
-  description: 'A website for cars',
+  description: 'A North X Studio car dealer demo website',
 }
 
 export default function RootLayout({

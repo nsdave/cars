@@ -20,9 +20,9 @@ const Navbar = () => {
             items-center'
             >
             <Image 
-            src={"/logo.svg"}
+            src={"/logo.png"}
             alt='Cars'
-            width={118}
+            width={52}
             height={18}
             className='object-contain'
             />

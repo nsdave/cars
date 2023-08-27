@@ -21,9 +21,9 @@ const Footer = () => {
             justify-start items-start gap-6'
             >
                 <Image 
-                src={"/logo.svg"}
+                src={"/logo.png"}
                 alt='logo'
-                width={118}
+                width={52}
                 height={18}
                 className='object-contain'
                 />
@@ -32,7 +32,7 @@ const Footer = () => {
                 >
                     Cars
                     <br />
-                    All right reserved &copy
+                    A North X Studio demo website
                 </p>
             </div>
 
@@ -67,7 +67,7 @@ const Footer = () => {
             sm:px-16 px-6 py-10'
             >
                 <p>
-                    @2023 Cars. All Rights Reserved
+                    @2023 Cars. A North X Studio demo website
                 </p>
                 <div
                 className='footer__copyrights-link'
